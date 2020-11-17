@@ -63,6 +63,15 @@
                 </ul>
             </div>
 				<h3>Environment: <?=$_SERVER['CI_ENVIRONMENT']?></h3>
+				<p>
+					<?php 
+						
+						echo "<pre>";
+						print_r ($_SERVER);
+						echo "</pre>";
+						
+					?>
+				</p>
         </div>
 
     </main>
