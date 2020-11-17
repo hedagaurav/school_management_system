@@ -62,6 +62,7 @@
                     <li>note 3</li>
                 </ul>
             </div>
+				<h3>Environment: <?=$_SERVER['CI_ENVIRONMENT']?></h3>
         </div>
 
     </main>
