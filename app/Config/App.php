@@ -22,7 +22,7 @@ class App extends BaseConfig
 	|
 	*/
 	// public $baseURL = 'http://localhost:8080/';
-	public $baseURL = 'https://ci4-sms.herokuapp.com/';
+	public $baseURL = 'https://young-hollows-30625.herokuapp.com/';
 
 	/*
 	|--------------------------------------------------------------------------
